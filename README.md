@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alinostev
 - 👀 I’m interested in programmation 
-- 🌱 I’m currently learning JavaScript with the SAYNA platform 
+- 🌱 I’m currently learning to code by myself 
 - 💞️ I’m looking to collaborate on the development of digital technologies and AI
 - 📫 You can join me with my mail address: Stevnazim@gmail.com 
 
